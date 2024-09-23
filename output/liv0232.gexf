@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-09-23">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Roland Freart Sieur De Chambray" label="Roland Freart Sieur De Chambray" />
+      <node id="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." label="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." />
+      <node id="Léonard De Vinci" label="Léonard De Vinci" />
+      <node id="Raphael" label="Raphael" />
+      <node id="Jules Romain" label="Jules Romain" />
+      <node id="Le Poussin" label="Le Poussin" />
+      <node id="Pline" label="Pline" />
+      <node id="Quintilien" label="Quintilien" />
+      <node id="Massacre Des Inocents" label="Massacre Des Inocents" />
+      <node id="Descente De La Croix De Nôtre Seigneur" label="Descente De La Croix De Nôtre Seigneur" />
+      <node id="Albert Durer" label="Albert Durer" />
+      <node id="Nativité De Notre Seigneur" label="Nativité De Notre Seigneur" />
+      <node id="Paris" label="Paris" />
+      <node id="Mans" label="Mans" />
+      <node id="Pont-Neuf" label="Pont-Neuf" />
+      <node id="Adam" label="Adam" />
+      <node id="Eve" label="Eve" />
+      <node id="Serpent" label="Serpent" />
+      <node id="Fruit Défendu" label="Fruit Défendu" />
+      <node id="Pasteur" label="Pasteur" />
+      <node id="Saint Joseph" label="Saint Joseph" />
+      <node id="Chapelet" label="Chapelet" />
+      <node id="Singe" label="Singe" />
+      <node id="Amazone" label="Amazone" />
+      <node id="Bataille Des Amazones" label="Bataille Des Amazones" />
+      <node id="Parthe" label="Parthe" />
+      <node id="Jules Cesar" label="Jules Cesar" />
+      <node id="Triomphe De Jules Cesar" label="Triomphe De Jules Cesar" />
+      <node id="Arme" label="Arme" />
+      <node id="Fleche" label="Fleche" />
+      <node id="Ennemi" label="Ennemi" />
+      <node id="Marque Particulière" label="Marque Particulière" />
+      <node id="Paradis Terrestre" label="Paradis Terrestre" />
+      <node id="Histoire D'Adam Et D'Eve Dans Le Paradis Terrestre" label="Histoire D'Adam Et D'Eve Dans Le Paradis Terrestre" />
+      <node id="Bâtiments" label="Bâtiments" />
+    </nodes>
+    <edges>
+      <edge source="Roland Freart Sieur De Chambray" target="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." id="0" label="AUTEUR" />
+      <edge source="Roland Freart Sieur De Chambray" target="Paris" id="1" label="LIEU" />
+      <edge source="Roland Freart Sieur De Chambray" target="Mans" id="2" label="LIEU" />
+      <edge source="Roland Freart Sieur De Chambray" target="Pont-Neuf" id="3" label="LIEU" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Léonard De Vinci" id="4" label="PEINTRE" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Raphael" id="5" label="PEINTRE" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Jules Romain" id="6" label="PEINTRE" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Le Poussin" id="7" label="PEINTRE" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Pline" id="8" label="OBSERVATEUR" />
+      <edge source="Ide De De Perfection De La Peinture Demonstre Par Les Principes De L'Art, Et Par Des Exemples Conformes Aux Observations Que Pline Et Quintilien Ont Faites Sur Les Plus Ce Lébres Tableaux Des Anciens Peintres, Mis En Paralelle À Quelques Ouvres De Nos Tilleurs Peintres Modernes, Léonard De Vinci, Raphael, Iules Romain, Et Le Poussin. Par Roland Freart Sieur 6E Chambray. H Heureux Au Mans. De L'Imprimerie De Ia Cqvesys Ambart Marchand Libraire, Et Imprimeur, Demeurant Au Bas Du Pont-Neuf, À L'Enseigne Du Saint Esprit. M. . Lxii. Avec Privilège Du Roy." target="Quintilien" id="9" label="OBSERVATEUR" />
+      <edge source="Raphael" target="Massacre Des Inocents" id="10" label="PEINTRE" />
+      <edge source="Raphael" target="Descente De La Croix De Nôtre Seigneur" id="11" label="PEINTRE" />
+      <edge source="Albert Durer" target="Nativité De Notre Seigneur" id="12" label="PEINTRE" />
+      <edge source="Nativité De Notre Seigneur" target="Pasteur" id="13" label="PARTICIPANT" />
+      <edge source="Nativité De Notre Seigneur" target="Saint Joseph" id="14" label="PARTICIPANT" />
+      <edge source="Adam" target="Eve" id="15" label="RELATION" />
+      <edge source="Adam" target="Serpent" id="16" label="RELATION" />
+      <edge source="Adam" target="Fruit Défendu" id="17" label="RELATION" />
+      <edge source="Adam" target="Paradis Terrestre" id="18" label="LIEU" />
+      <edge source="Eve" target="Serpent" id="19" label="RELATION" />
+      <edge source="Eve" target="Fruit Défendu" id="20" label="RELATION" />
+      <edge source="Eve" target="Paradis Terrestre" id="21" label="LIEU" />
+      <edge source="Serpent" target="Paradis Terrestre" id="22" label="LIEU" />
+      <edge source="Saint Joseph" target="Chapelet" id="23" label="RELATION" />
+      <edge source="Saint Joseph" target="Singe" id="24" label="RELATION" />
+      <edge source="Amazone" target="Bataille Des Amazones" id="25" label="PARTICIPANT" />
+      <edge source="Amazone" target="Marque Particulière" id="26" label="RELATION" />
+      <edge source="Bataille Des Amazones" target="Parthe" id="27" label="PARTICIPANT" />
+      <edge source="Parthe" target="Arme" id="28" label="RELATION" />
+      <edge source="Parthe" target="Fleche" id="29" label="RELATION" />
+      <edge source="Parthe" target="Ennemi" id="30" label="RELATION" />
+      <edge source="Jules Cesar" target="Triomphe De Jules Cesar" id="31" label="PARTICIPANT" />
+      <edge source="Paradis Terrestre" target="Histoire D'Adam Et D'Eve Dans Le Paradis Terrestre" id="32" label="LIEU" />
+      <edge source="Histoire D'Adam Et D'Eve Dans Le Paradis Terrestre" target="Bâtiments" id="33" label="RELATION" />
+    </edges>
+  </graph>
+</gexf>
